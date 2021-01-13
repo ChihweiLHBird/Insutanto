@@ -11,7 +11,7 @@ on:
 env:
   GITHUB_NAME: Insutanto
   GITHUB_EMAIL: momentxu@gmail.com
-  STARED_NUMBER: 10
+  STARED_NUMBER: 5
 
 jobs:
   build:
