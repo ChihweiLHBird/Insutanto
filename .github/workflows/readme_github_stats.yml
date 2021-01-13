@@ -24,7 +24,7 @@ jobs:
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.G_T }}
           # In this example, you can also use the ${{ secrets.GITHUB_TOKEN }} variable 
           # Permissions for the GITHUB_TOKEN : https://docs.github.com/en/free-pro-team@latest/actions/reference/authentication-in-a-workflow#permissions-for-the-github_token
         
