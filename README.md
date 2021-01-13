@@ -21,23 +21,23 @@
 | ID |                                 REPO                                 | FIRSTDATE  | LASTEDATE  |                                         PRCOUNT                                          |
 |----|----------------------------------------------------------------------|------------|------------|------------------------------------------------------------------------------------------|
 |  1 | [scalene](https://github.com/emeryberger/scalene)                    | 2020-04-09 | 2020-06-17 | [6](https://github.com/emeryberger/scalene/pulls?q=is%3Apr+author%3AInsutanto)           |
-|  2 | [GerapyAutoExtractor](https://github.com/Gerapy/GerapyAutoExtractor) | 2020-07-07 | 2020-07-07 | [1](https://github.com/Gerapy/GerapyAutoExtractor/pulls?q=is%3Apr+author%3AInsutanto)    |
-|  3 | [ghz](https://github.com/bojand/ghz)                                 | 2020-01-18 | 2020-01-18 | [1](https://github.com/bojand/ghz/pulls?q=is%3Apr+author%3AInsutanto)                    |
-|  4 | [liva-hugo](https://github.com/gethugothemes/liva-hugo)              | 2020-01-18 | 2020-01-18 | [1](https://github.com/gethugothemes/liva-hugo/pulls?q=is%3Apr+author%3AInsutanto)       |
-|  5 | [micrometer](https://github.com/micrometer-metrics/micrometer)       | 2019-12-17 | 2019-12-17 | [1](https://github.com/micrometer-metrics/micrometer/pulls?q=is%3Apr+author%3AInsutanto) |
+|  2 | [ghz](https://github.com/bojand/ghz)                                 | 2020-01-18 | 2020-01-18 | [1](https://github.com/bojand/ghz/pulls?q=is%3Apr+author%3AInsutanto)                    |
+|  3 | [liva-hugo](https://github.com/gethugothemes/liva-hugo)              | 2020-01-18 | 2020-01-18 | [1](https://github.com/gethugothemes/liva-hugo/pulls?q=is%3Apr+author%3AInsutanto)       |
+|  4 | [micrometer](https://github.com/micrometer-metrics/micrometer)       | 2019-12-17 | 2019-12-17 | [1](https://github.com/micrometer-metrics/micrometer/pulls?q=is%3Apr+author%3AInsutanto) |
+|  5 | [GerapyAutoExtractor](https://github.com/Gerapy/GerapyAutoExtractor) | 2020-07-07 | 2020-07-07 | [1](https://github.com/Gerapy/GerapyAutoExtractor/pulls?q=is%3Apr+author%3AInsutanto)    |
 
 ## The repos I stared (random 10)
-| ID |                                    REPO                                     | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [grpc-tools](https://github.com/bradleyjkemp/grpc-tools)                    | 2020-02-16 | Go               | 2021-01-08   |
-|  2 | [ghz](https://github.com/bojand/ghz)                                        | 2020-01-16 | Go               | 2021-01-13   |
-|  3 | [html2text](https://github.com/Alir3z4/html2text)                           | 2020-02-19 | Python           | 2021-01-12   |
-|  4 | [handson-ml](https://github.com/ageron/handson-ml)                          | 2018-08-16 | Jupyter Notebook | 2021-01-13   |
-|  5 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 2018-09-10 | Python           | 2021-01-13   |
-|  6 | [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)    | 2020-04-16 | Jupyter Notebook | 2021-01-12   |
-|  7 | [etcd](https://github.com/etcd-io/etcd)                                     | 2020-10-16 | Go               | 2021-01-13   |
-|  8 | [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest)      | 2019-09-29 | Python           | 2020-12-21   |
-|  9 | [cilium](https://github.com/cilium/cilium)                                  | 2020-12-29 | Go               | 2021-01-13   |
-| 10 | [superset](https://github.com/apache/superset)                              | 2019-09-09 | Python           | 2021-01-13   |
+| ID |                                    REPO                                     | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [ignite](https://github.com/infinitered/ignite)                             | 2017-02-10 | TypeScript | 2021-01-13   |
+|  2 | [armeria](https://github.com/line/armeria)                                  | 2019-08-06 | Java       | 2021-01-11   |
+|  3 | [werkzeug](https://github.com/pallets/werkzeug)                             | 2020-05-21 | Python     | 2021-01-12   |
+|  4 | [httpie](https://github.com/httpie/httpie)                                  | 2019-04-23 | Python     | 2021-01-13   |
+|  5 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 2018-09-10 | Python     | 2021-01-13   |
+|  6 | [kubernetes](https://github.com/kubernetes/kubernetes)                      | 2020-10-16 | Go         | 2021-01-13   |
+|  7 | [html2text](https://github.com/aaronsw/html2text)                           | 2018-12-26 | Python     | 2021-01-13   |
+|  8 | [sentry](https://github.com/getsentry/sentry)                               | 2020-01-19 | Python     | 2021-01-13   |
+|  9 | [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder)            | 2019-09-28 | Python     | 2021-01-13   |
+| 10 | [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)                           | 2018-12-27 | Python     | 2021-01-12   |
 
 <!--END_SECTION:my_github-->
